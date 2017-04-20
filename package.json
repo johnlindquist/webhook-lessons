@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "micro index.js"
+  },
+  "dependencies": {
+    "micro": "^7.3.2"
+  }
+}
